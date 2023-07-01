@@ -24,8 +24,8 @@ You can also add or remove sites from the blacklist by editing the `blacklistedS
 ---
 ### Issues/Todos 
 
-- Presents links to nonexistent host sites. For example on iOS, there is a link for ‘maps’ results that redirects to nothing.
-- After redirect, the first webpage retains the “more from” button - which, of course, presents the same page.
+- Presents links to nonexistent host sites. For example on iOS, there is a link for “Maps” results that redirects to nothing.
+- After redirect, the first webpage retains the ‘more from’ button - which, of course, presents the same page.
 
 ### Notes
 
