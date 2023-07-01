@@ -7,6 +7,8 @@
 // @grant        GM_addStyle
 // ==/UserScript==
 
+
+
 (function() {
     'use strict';
 
@@ -28,11 +30,10 @@
             margin-left: 6px;
         }
     `);
-
-    // Find the search input field on the Google search page
-    var searchInput = document.querySelector('input[name="q"]');
-    if (searchInput) {
-        var searchQuery = searchInput.value;
+        // Find the search input field on the Google search page
+        var searchForm = document.getElementById('searchform');
+        if (searchForm) {
+            var searchQuery = searchForm.value;
 
         // Create an object to store hostnames that have already been processed
         var processedHosts = {};
