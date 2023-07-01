@@ -25,4 +25,4 @@ You can also add or remove sites from the blacklist by editing the `blacklistedS
 ### Notes
 - Use the iOS specific script for iOS/Safari.
 - If someone smarter than I would like to merge them feel completely free to do so - would be much appreciated.
-- Also, unimportantly, I used GPT to write this readme.
+- Also, unimportantly, I used GPT to write this readme. As well as the inline script notes, formatting, and debugging.
