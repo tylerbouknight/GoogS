@@ -1,12 +1,10 @@
 # More From Site Userscript
 
-Intended for iOS - Safari
-
 This userscript adds a "More from *site name*" button under each link in Google search results. When clicked, the button redirects the user to a site-specific Google search. The script also includes a blacklist of sites for which the button will not be displayed.
 
 ## Installation
 
-1. Install a userscript manager such as Tampermonkey or Greasemonkey.
+1. Install a userscript manager such as Tampermonkey or Greasemonkey (will work on mobile devices).
 2. Copy the code from the userscript.
 3. Create a new script in the userscript manager.
 4. Paste the code into the editor and save the script.
