@@ -1,4 +1,4 @@
-# More From This Site Userscript
+# More From Site Userscript
 
 This userscript adds a "More from *site name*" button under each link in Google search results. When clicked, the button redirects the user to a site-specific Google search. The script also includes a blacklist of sites for which the button will not be displayed.
 
