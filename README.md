@@ -22,4 +22,6 @@ You can customize the appearance of the "More from *site name*" button by editin
 You can also add or remove sites from the blacklist by editing the `blacklistedSites` array.
 
 ---
-If using on iPhone make sure to use the iOS specific script - if using safari, that is.
+### Notes
+- Use the iOS specific script for iOS/Safari.
+- If someone smarter than I would like to merge them feel completely free to do so - would be much appreciated.
