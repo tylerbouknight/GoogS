@@ -9,7 +9,7 @@ You can customize the appearance of the "More from *site name*" button by editin
 You can also add or remove sites from the blacklist by editing the `blacklistedSites` array.
 
 ---
-### Issues/Todos 
+### Wishlist
 
 More From Site
 - Presents links to nonexistent host sites. For example on iOS, there is a link for “Maps” results that redirects to nothing.
