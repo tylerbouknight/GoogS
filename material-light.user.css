@@ -879,7 +879,7 @@ input:not([type])::placeholder {
     padding-left: 16px;
   }
 
-  .searx-navbar {
+  .searxng-navbar {
     display: none;
     width: 100%;
     height: 64px;
@@ -890,14 +890,14 @@ input:not([type])::placeholder {
     align-items: center;
     background: #fbfdfa;
   }
-  .searx-navbar span {
+  .searxng-navbar span {
     height: 48px;
     float: none !important;
     display: inline-flex;
     padding: 0 !important;
     margin: 0 !important;
   }
-  .searx-navbar span a[href="/BluChain"] {
+  .searxng-navbar span a[href="/BluChain"] {
     display: inline-block;
     content: " ";
     width: 48px;
@@ -911,7 +911,7 @@ input:not([type])::placeholder {
     background-repeat: no-repeat;
     background-size: 24px 24px;
   }
-  .searx-navbar span a[href="/about"] {
+  .searxng-navbar span a[href="/about"] {
     display: none;
     content: " ";
     width: 48px;
@@ -925,7 +925,7 @@ input:not([type])::placeholder {
     background-repeat: no-repeat;
     background-size: 24px 24px;
   }
-  .searx-navbar span a[href="/preferences"] {
+  .searxng-navbar span a[href="/preferences"] {
     display: inline-block;
     content: " ";
     width: 48px;
@@ -939,7 +939,7 @@ input:not([type])::placeholder {
     background-repeat: no-repeat;
     background-size: 24px 24px;
   }
-  .searx-navbar a {
+  .searxng-navbar a {
     padding: 0 !important;
     margin: 0 !important;
   }
