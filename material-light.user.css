@@ -1614,6 +1614,7 @@ input:not([type])::placeholder {
   #main-logo {
     margin-top: 0;
     margin-bottom: 32px;
+    color: #0065b4;
   }
 
   #main-logo > img {
