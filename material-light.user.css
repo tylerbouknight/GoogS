@@ -6,8 +6,9 @@
 @author         katacarbix
 @license        CC0-1.0
 ==/UserStyle== */
-@-moz-document regexp('^https?://(www\.)?searx\.be(/.*)?$') {
-  h1 {
+@-moz-document regexp('^https?://(www\.)?searx\.be(/.*)?$')
+@-moz-document regexp('^https?://(www\.)?roflcopter\.fr(/.*)?$') { 
+ h1 {
     font-size: 36px !important;
     font-weight: 400 !important;
     line-height: 44px !important;
