@@ -1,4 +1,3 @@
-@-moz-document url("https://searx.be/") {
 
 h1 {
   font-size: 36px !important;
@@ -2572,6 +2571,7 @@ body.preferences_endpoint #tab_engine .label.label-danger::before {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 24px 24px;
-}}
+}
+@-moz-document url("https://searx.be/") 
 
 /*# sourceMappingURL=material-light.css.map */
