@@ -52,7 +52,7 @@
   .glyphicon {
     display: none !important;
   }
-
+  
   #buttons-test .elevated:not(.disabled) {
     display: inline-flex;
     align-items: center;
@@ -1621,7 +1621,7 @@ input:not([type])::placeholder {
     width: 80%;
   }
 
-  #q {
+  .form-control {
     width: 100%;
     height: 48px;
     line-height: 48px;
@@ -1634,7 +1634,7 @@ input:not([type])::placeholder {
     background-color: #e7f1ed;
     color: #191c1b;
   }
-  #q::placeholder {
+  .form-control::placeholder {
     color: rgba(25, 28, 27, 0.5);
   }
 
