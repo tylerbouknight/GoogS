@@ -1656,17 +1656,13 @@ input:not([type])::placeholder {
     height: 40px;
     border-radius: 20px !important;
     padding: 0 24px;
-    transition: background-color ease 0.1s, box-shadow ease 0.1s;
     text-decoration: none;
     white-space: nowrap;
     overflow: hidden;
     cursor: pointer;
     border: none;
-    background-color: #fbfdfa !important;
     white-space: nowrap;
     color: #3f4945 !important;
-    fill: #3f4945;
-    font-color: #3f4945;
     font-size: 14px !important;
     font-weight: 500 !important;
     line-height: 20px !important;
@@ -1677,11 +1673,9 @@ input:not([type])::placeholder {
     padding: 0 !important;
   }
   #search_form .input-group button[type=submit]:hover, #search_form .input-group button[type=submit].hovered {
-    background-color: #02654f !important;
-    box-shadow: 0 1px 2px 0px rgba(0, 0, 0, 0.3), 0 1px 3px 1px rgba(0, 0, 0, 0.15);
+    box-shadow: none !important;
   }
   #search_form .input-group button[type=submit].focused, #search_form .input-group button[type=submit]:active, #search_form .input-group button[type=submit].pressed {
-    background-color: #03624d !important;
     box-shadow: none !important;
   }
   #search_form .input-group button[type=submit]::before {
