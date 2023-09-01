@@ -1028,6 +1028,7 @@ input:not([type])::placeholder {
     cursor: pointer;
     font-size: 14px !important;
     font-weight: 500 !important;
+    font-color: #3f4945 !important;
     line-height: 20px !important;
     letter-spacing: 0.1px !important;
     line-height: 32px !important;
@@ -1663,9 +1664,9 @@ input:not([type])::placeholder {
     border: none;
     background-color: #fbfdfa !important;
     white-space: nowrap;
-    color: #333333;
-    fill: #333333;
-    font-color: #333333;
+    color: #3f4945 !important;
+    fill: #3f4945;
+    font-color: #3f4945;
     font-size: 14px !important;
     font-weight: 500 !important;
     line-height: 20px !important;
