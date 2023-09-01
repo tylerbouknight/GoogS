@@ -880,6 +880,7 @@ input:not([type])::placeholder {
   }
 
   .searx-navbar {
+    display: none;
     width: 100%;
     height: 64px;
     padding: 0 16px;
