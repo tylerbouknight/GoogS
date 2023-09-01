@@ -1664,6 +1664,8 @@ input:not([type])::placeholder {
     background-color: #fbfdfa !important;
     white-space: nowrap;
     color: #333333;
+    fill: #333333;
+    font-color: #333333;
     font-size: 14px !important;
     font-weight: 500 !important;
     line-height: 20px !important;
