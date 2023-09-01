@@ -896,7 +896,7 @@ input:not([type])::placeholder {
     padding: 0 !important;
     margin: 0 !important;
   }
-  .searx-navbar span a[href="/"] {
+  .searx-navbar span a[href="/BluChain"] {
     display: inline-block;
     content: " ";
     width: 48px;
@@ -911,7 +911,7 @@ input:not([type])::placeholder {
     background-size: 24px 24px;
   }
   .searx-navbar span a[href="/about"] {
-    display: inline-block;
+    display: none;
     content: " ";
     width: 48px;
     height: 48px;
