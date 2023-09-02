@@ -5,6 +5,7 @@
 @description    Light Material Design 3 theme for Searx
 @author         katacarbix
 @license        CC0-1.0
+  @run-at       document-start
 ==/UserStyle== */
 
 @-moz-document regexp('^https?://(www\.)?searx\.be(/.*)?$') {
