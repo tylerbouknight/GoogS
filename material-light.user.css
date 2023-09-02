@@ -7,6 +7,9 @@
 @license        CC0-1.0
 @run-at        document-start
 ==/UserStyle== */
+
+<link rel="preload" as="style" href="userstyle.css">
+
 @-moz-document regexp('^https?://(www\.)?searx\.be(/.*)?$') {
  h1 {
     font-size: 36px !important;
