@@ -8,7 +8,7 @@
 @run-at         document-start
 ==/UserStyle== */
 
-@-moz-document regexp('^https?://(www\.)?searx\.be(/.*)?$') {
+@-moz-document regexp('^https?://(www\.)?(searx\.be|searx.roflcopter\.fr)(/.*)?$') {
  h1 {
     font-size: 36px !important;
     font-weight: 400 !important;
