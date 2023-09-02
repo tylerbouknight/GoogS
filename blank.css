@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name           Searx Material (Light)
+@namespace      github.com/katacarbix/searx-material
+@version        1.0.3
+@description    Light Material Design 3 theme for Searx
+@author         katacarbix
+@license        CC0-1.0
+==/UserStyle== */
+@-moz-document regexp('^https?://(www\.)?searx\.be(/.*)?$') {
+
+div {
+display: none;
+}
+
+}
