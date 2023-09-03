@@ -881,7 +881,7 @@ input:not([type])::placeholder {
     padding-left: 16px;
   }
 
-.searxng-navbar {
+  .searxng-navbar {
     width: 100%;
     height: 64px;
     padding: 0 16px;
@@ -912,7 +912,7 @@ input:not([type])::placeholder {
     background-repeat: no-repeat;
     background-size: 24px 24px;
   }
-  .searxng-navbar span a[href="/about"] {
+  .searxng-navbar span a[href="/info/en/about"] {
     display: inline-block;
     content: " ";
     width: 48px;
