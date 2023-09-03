@@ -1687,7 +1687,7 @@ input:not([type])::placeholder {
     width: 80%;
   }
 
-  .form-control {
+  #q {
     width: 100%;
     height: 48px;
     line-height: 48px;
@@ -1700,7 +1700,7 @@ input:not([type])::placeholder {
     background-color: #e7f1ed;
     color: #191c1b;
   }
-  .form-control::placeholder {
+  #q::placeholder {
     color: rgba(25, 28, 27, 0.5);
   }
 
