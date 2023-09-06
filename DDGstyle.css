@@ -1,0 +1,19 @@
+/* ==UserStyle==
+@name           DuckDuckGo Style
+@version        1.
+@description    ddg styles
+@author         tyler bouknight
+==/UserStyle== */
+
+@-moz-document regexp('^https?://(www\.)?duckduckgo\.com(/.*)?$') {
+
+      .is-vertical-tabs-exp #duckbar .zcm__link__icon {
+          display: none;
+      }
+      .feedback-prompt {
+          display: none;
+      }
+      .zcm__link js-zci-link js-zci-link--about {
+          display: none;
+      }
+}
