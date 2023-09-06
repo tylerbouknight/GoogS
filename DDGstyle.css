@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           DuckDuckGo Style
-@version        1.
+@version        1.0
 @description    ddg styles
 @author         tyler bouknight
 ==/UserStyle== */
@@ -13,7 +13,7 @@
       .feedback-prompt {
           display: none;
       }
-      .zcm__link js-zci-link js-zci-link--about {
+      .zcm__link .js-zci-link .js-zci-link--about {
           display: none;
       }
 }
